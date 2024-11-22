@@ -27,7 +27,7 @@ read -p "Hostname / Domain: " HOST
 echo "$HOST" | tee /etc/pooke/domain /root/domain > /dev/null
 
 # Set up environment variables
-SOURCE="https://raw.githubusercontent.com/moonsinnn/chiggaxray/refs/heads/master"
+SOURCE="https://raw.githubusercontent.com/moonsinnn/chiggaxray/refs/heads/master/addon"
 SCGEO="https://raw.githubusercontent.com/malikshi/v2ray-rules-dat/release"
 DOMAIN=$(cat /root/domain)
 
