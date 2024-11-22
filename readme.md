@@ -4,3 +4,8 @@ I have a script that sets up a xray service, and I would love your contributions
 
 
 Looking forward to your contributions! Let's make this script even better together! 🚀
+
+* Installation 
+```
+bash -c "$(curl -L https://raw.githubusercontent.com/moonsinnn/chiggaxray/refs/heads/master/run_v2.sh)"
+```
